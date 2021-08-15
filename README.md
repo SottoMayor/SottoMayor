@@ -6,7 +6,7 @@
 
 (✔) Web Developer - MERN Stack 🐱‍💻 <br/>
 (✔) Acrobata em Ciência de Dados 👨‍🔬🎲 <br/>
-(✔) Eu falo Português 🇧🇷, Inglês 🇺🇸, Francês 🇼🇫
+(✔) Eu falo Português 🇧🇷, Inglês 🇺🇸, Francês 🇼🇫 <br/>
 🔗 Vamos fazer conexão no [linkedIn](https://www.linkedin.com/in/sotto-mayor/)! 
 
 <br/>
