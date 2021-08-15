@@ -46,6 +46,8 @@
     <img align="center" alt="SottoMayor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="SottoMayor-MaterialUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/materialui/materialui-plain.svg">
     <img align="center" alt="SottoMayor-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redux/redux-original.svg">
+    <img align="center" alt="SottoMayor-StyledComponents" height="25" width="85" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+    <img align="center" alt="SottoMayor-ReactRouter" height="25" width="85" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
     <img align="center" alt="SottoMayor-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jquery/jquery-plain.svg">
     <img align="center" alt="SottoMayor-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg">
     <img align="center" alt="SottoMayor-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/express/express-original.svg">
