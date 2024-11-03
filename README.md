@@ -1,17 +1,15 @@
-## Seja Bem Vindo!
+# Hello! Welcome to my GitHub.
 
-<b>David Sotto Mayor</b>, diretamente de <b>Manaus</b>! Eterno aprendiz, amo desafios e de bem com a vida. 🐱‍👤
+I’m **David Sotto Mayor**, a professional web developer and blockchain researcher with a strong foundation in building secure, efficient, and innovative digital solutions.
 
-<br/>
+Feel free to reach out in:
+- **English**
+- **French**
+- **Portuguese** (Native)
 
-(✔) Web Developer - MERN Stack 🐱‍💻 <br/>
-(✔) Acrobata em Ciência de Dados 👨‍🔬🎲 <br/>
-(✔) Eu falo Português 🇧🇷, Inglês 🇺🇸, Francês 🇼🇫 <br/>
-🔗 Vamos fazer conexão no [linkedIn](https://www.linkedin.com/in/sotto-mayor/)! 
+## Don't trust, verify.
 
-<br/>
-
-## Sou muito DEDICADO e estou sempre em busca da minha MELHOR VERSÃO!
+With a commitment to delivering high-quality work, I am constantly exploring new frontiers in technology, particularly within the realms of decentralized systems and web development.
 <div>
   <a href="https://github.com/SottoMayor">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SottoMayor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -19,46 +17,37 @@
   </a>
 </div>
 
-<br/>
+---
 
-<h3>Minhas Tecnologias</h3>
-☕ Linguagens
+### Technologies & Tools
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="SottoMayor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="SottoMayor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="SottoMayor-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-plain.svg">
-    <img align="center" alt="SottoMayor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="SottoMayor-R" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/rstudio/rstudio-plain.svg">
-    <img align="center" alt="SottoMayor-MongoDB" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-plain.svg">
-    <img align="center" alt="SottoMayor-MySQL" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain.svg">
-    <img align="center" alt="SottoMayor-PostgreSQL" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-plain.svg">
-  </div>
- 
-<br/>
- 
- 🧰🛠 Ferramentas
- 
-  <div style="display: inline_block">
-  <img align="center" alt="SottoMayor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain.svg">
-  <img align="center" alt="SottoMayor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-plain.svg">
-    <img align="center" alt="SottoMayor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="SottoMayor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="SottoMayor-MaterialUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/materialui/materialui-plain.svg">
-    <img align="center" alt="SottoMayor-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redux/redux-original.svg">
-    <img align="center" alt="SottoMayor-StyledComponents" height="25" width="85" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-    <img align="center" alt="SottoMayor-ReactRouter" height="25" width="85" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-    <img align="center" alt="SottoMayor-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jquery/jquery-plain.svg">
-    <img align="center" alt="SottoMayor-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="SottoMayor-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/express/express-original.svg">
-    <img align="center" alt="SottoMayor-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="SottoMayor-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/sequelize/sequelize-plain.svg">
-  <img align="center" alt="SottoMayor-Mocha" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mocha/mocha-plain.svg">
-   <img align="center" alt="SottoMayor-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/flask/flask-original.svg">
-  <img align="center" alt="SottoMayor-SQLAlchemy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/sqlalchemy/sqlalchemy-plain.svg">
-  </div>
+#### ☕ Languages 👩‍💻
+<div>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+</div>
+
+#### 🧰 Web Development 🛠
+<div>
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Adonis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
+  <img align="center" alt="Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nestjs/nestjs-plain.svg">
   
-  <br/>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   
-  <h3>Visitas no meu perfil</h3>
-  <img src="https://komarev.com/ghpvc/?username=SottoMayor&color=red" alt="SottoMayor" /> 
+  <img align="center" alt="Django" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Flask" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="Playwright" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg">
+  <img align="center" alt="Selenium" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Pandas" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg">
+</div>
+
+### Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/sotto-mayor/) – for professional networking
+- [GitHub Profile](https://github.com/SottoMayor) – explore more projects and collaborations
